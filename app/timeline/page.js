@@ -49,7 +49,7 @@ const memories = [
   {
     title: "The Day I Met Your Family",
     date: "Chapter 07",
-    image: "/images/m1.jpg",
+    image: "/images/m7.jpg",
     story:
       "We went to our usual date spot, but this time it felt a little different. I officially met your family, and it turned into a really good moment - relaxed, natural, and full of laughter. It made me think about how easy it all felt, like I was already meant to be there."
   },
