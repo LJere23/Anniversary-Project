@@ -8,9 +8,9 @@ export default function Secret() {
   }, []);
 
   const videos = [
-    "/videos/v1.mp4",
-    "/videos/v2.mp4",
-    "/videos/v3.mp4"
+    "https://raw.githubusercontent.com/LJere23/Anniversary-Project/main/public/videos/v1.mp4",
+    "https://raw.githubusercontent.com/LJere23/Anniversary-Project/main/public/videos/v2.mp4",
+    "https://raw.githubusercontent.com/LJere23/Anniversary-Project/main/public/videos/v3.mp4"
   ];
 
   return (
